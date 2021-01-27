@@ -7,3 +7,4 @@ Un blog para el curso de Git y GitHub de Platzi.
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
+* Creado por estudiante de Platzi
