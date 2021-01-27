@@ -8,3 +8,4 @@ Un blog para el curso de Git y GitHub de Platzi.
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Creado por estudiante de Platzi
+* Incluye ejemplos en linux, windows y mac
